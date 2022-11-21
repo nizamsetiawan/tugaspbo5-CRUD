@@ -43,7 +43,7 @@ $no = 1;
     <br>
 
     <!-- Awal Card Tabel -->
-    <div class="card-header bg-primary text-white mb-1">
+    <div class="card-header bg-dark text-white mb-1">
       <b>Tabel Data Mahasiswa</b>
     </div>
 
